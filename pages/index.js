@@ -20,7 +20,7 @@ export default function Home() {
 
         <p className={styles.description}>
           So this message is for you clara. You broke-shamed me and you think you'll get away with it? 😄 <br/>
-          You must be a 🤡 to think you'll get away with it.
+          You must be a 🤡 to think you'll get away with it. We shall see 🧑‍🤝‍🧑‍
         </p>
       </main>
 
